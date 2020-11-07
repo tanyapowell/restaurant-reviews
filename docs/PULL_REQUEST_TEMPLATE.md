@@ -36,16 +36,19 @@
 
 ## Has This Been Tested?
 
-:question: Please describe the tests used. 
+:question: Please describe any tests used in a way that the rest of the group could perform the same test. 
 
 ## Checklist:
 
 :question: For peace of mind.
 
 - [ ] My code follows the guidelines of this project
+- [ ] I have used appropriate and relevant pull request title
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation or I have not needed to
 - [ ] My changes generate no new warnings
 - [ ] I have checked my code and corrected any misspellings
+- [ ] Linked issues
+- [ ] Assigned team or specific members to review.
 
