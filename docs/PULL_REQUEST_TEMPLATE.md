@@ -49,5 +49,3 @@
 - [ ] My changes generate no new warnings
 - [ ] I have checked my code and corrected any misspellings
 
-# Ready for Review
--[ ]
