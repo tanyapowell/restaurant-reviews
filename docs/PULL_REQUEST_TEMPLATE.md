@@ -23,7 +23,7 @@
 
 :question: This pull request is in reponse to **issue** #
 
-:question: Does it require the install of any other dependencies apart from the standard node_modules when a **npm install** is run? If yes please list here.
+:question: Does it require the install of any other dependencies apart from the current node_modules when a **npm install** is run? If yes please list here.
 
 ## Type of change
 
