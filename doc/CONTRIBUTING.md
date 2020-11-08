@@ -19,7 +19,7 @@ The following is laid out to help govern and champion a productive collabrative 
 
 5. Allow team members to be spontaneous, expect unexpected changes and commits. Make sure to comment, comment, comment.
 
-6. Don't expect them “to know.”. Its OK to be wrong, but always reseach for answers you need as these contribution guidelines are a way to communicate how people should contribute. Please see Code Of Conduct (INSERT LINK HERE)
+6. Don't expect them “to know.”. Its OK to be wrong, but always reseach for answers you need as these contribution guidelines are a way to communicate how people should contribute. Please see Code Of Conduct (https://github.com/tanyapowell/restaurant-reviews/blob/add-code-of-conduct-1/CODE_OF_CONDUCT.md)
 
 For contributors, these guidelines help them verify that they're submitting well-formed pull requests and opening useful issues.
 
