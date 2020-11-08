@@ -29,6 +29,18 @@ For both owners and contributors, contribution guidelines save time and hassle c
 
 8. No pressure, just work hard and do your best.
 
+New Suggestions by Charlene Grant (draft edit added here)
+
+a) speak up and build your confidence to do more of expressing your views 
+
+b) find another member like Tanya to confide in and speak on your behalf 
+
+c) Never feel pressured to stay but try to see the process through you might suprise yourself 
+
+d) Always try to change a miserable attitude to a winning attitude
+
+e) process it, brush it off, fix your crown and keep moving forward.
+
 # Pull Request Template
 (Feat): This is a new feature
 (Fix): I am fixing something
