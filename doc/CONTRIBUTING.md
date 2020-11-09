@@ -1,5 +1,5 @@
-WELCOME TO YOUR 
-CONTRIBUTION GUIDELINES
+# WELCOME TO YOUR 
+# CONTRIBUTION GUIDELINES
 
 
 To help you save on time and hassle down the road, 
@@ -19,9 +19,9 @@ For youthe contributor, reading these guidelines help us verify that they're sub
 
 For both owners and contributors, contribution guidelines save time and hassle caused by improperly created pull requests or issues that have to be rejected and re-submitted.
 
-1. How TO USE THE PULL REQUEST VIDEO EXPLAINATION (https://youtu.be/rgbCcBNZcdQ) 
+1. [How TO USE THE PULL REQUEST VIDEO EXPLAINATION] (https://youtu.be/rgbCcBNZcdQ) 
 
-2. HOW TO OPEN ISSUES VIDEO HELP & UNDERSTANDING (https://www.youtube.com/watch?v=YshvUGgF_3o)
+2. [HOW TO OPEN ISSUES VIDEO HELP & UNDERSTANDING] (https://www.youtube.com/watch?v=YshvUGgF_3o)
 
 
 TO BE PRODUCTIVE, IN RAPIDLY DEVELOPING ENVIRONMENT - PLEASE READ THE GOVERNANCE BELOW:-
@@ -34,7 +34,7 @@ TO BE PRODUCTIVE, IN RAPIDLY DEVELOPING ENVIRONMENT - PLEASE READ THE GOVERNANCE
 
 4. Don't expect them “to know”. 
 Its OK to be wrong, but always reseach for answers you need as these contribution guidelines are a way to communicate how people should contribute. 
-Also read Code Of Conduct (https://github.com/tanyapowell/restaurant-reviews/blob/add-code-of-conduct-1/CODE_OF_CONDUCT.md)
+Also read [Code Of Conduct] (https://github.com/tanyapowell/restaurant-reviews/blob/add-code-of-conduct-1/CODE_OF_CONDUCT.md)
 
 5. Appreciate your team as you would want to be appreciated for all your hard work. It creates a safe environment for spontenuety and highten a sense of wellbeing of the entire team.
 
