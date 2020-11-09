@@ -2,10 +2,10 @@
 
 ## Description
 
-:question: Please include a summary of the change(s) a small paragraph in your own words is fine.
+:question: Please include a summary of the change(s), a small paragraph in your own words is fine.
 
 
-:question: Break Down of Task, steps taken.
+:question: Breakdown of Task, steps taken.
 
 -[ ] ...
 
