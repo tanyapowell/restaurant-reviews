@@ -17,7 +17,7 @@
 
 -[ ] ...
 
-:question: Have you used any tutorials or done any reading that helped you to complete these changes. Would be of benefit to the group? If yes, you can add the links here. It is great for our growth, but also so we can help if needed.
+:question: To complete these changes, have you used any tutorials or done any reading which would be of benefit to the group? If yes, you can add the links here. It is great for our growth, but it can also aid in troubleshooting.
 
 ## Issue Addressed
 
