@@ -1,3 +1,5 @@
+#### Name of the user reporting the issue: 
+
 # Check the type of issue you want to report
 - [ ] New feature (complete section 1)
 - [ ] Bug report (complete section 2)
