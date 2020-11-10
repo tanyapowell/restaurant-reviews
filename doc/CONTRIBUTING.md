@@ -8,7 +8,7 @@ these contribution guidelines will help for submitting well-formed pull requests
 
 The following is laid out to help govern and champion a productive collabrative effort.
 
-# For you the contributor 
+# For you the Contributor 
 Reading these guidelines help us verify that they're submitting well-formed pull requests and opening useful issues.
 
 # PULL REQUESTS
