@@ -39,7 +39,7 @@ Please see https://www.dataschool.io/how-to-contribute-on-github/
 
 ## 4. Don't expect them “to know”. 
 - Its OK to be wrong, but always reseach for answers you need as these contribution guidelines are a way to communicate how people should contribute. 
-Also read [Code Of Conduct] (https://github.com/tanyapowell/restaurant-reviews/blob/add-code-of-conduct-1/CODE_OF_CONDUCT.md)
+Also read [Code Of Conduct](https://github.com/tanyapowell/restaurant-reviews/blob/add-code-of-conduct-1/CODE_OF_CONDUCT.md)
 
 ## 5. Appreciate your team as you would want to be appreciated for all your hard work. 
 - It creates a safe environment for spontenuety and highten a sense of wellbeing of the entire team.
