@@ -27,39 +27,39 @@ For both owners and contributors, contribution guidelines save time and hassle c
 # TO BE PRODUCTIVE, IN RAPIDLY DEVELOPING ENVIRONMENT - 
 ## PLEASE READ THE GOVERNANCE BELOW:-
 
-## 1. Let each person shine  
-communicate with each others, not only to let others know you have made a change but also when you need help.
+## 1. How to contribute your first code?  
+Please see https://www.dataschool.io/how-to-contribute-on-github/
 
 ## 2. Meet each team member where they are and be super supportive
-as we all strive for greatness in our own ways. 
+- as we all strive for gre
 
 ## 3. Allow team members to be spontaneous
-expect unexpected changes and commits. Make sure to comment, comment, comment.
+- expect unexpected changes and commits. Make sure to comment, comment, comment.
 
 ## 4. Don't expect them “to know”. 
-Its OK to be wrong, but always reseach for answers you need as these contribution guidelines are a way to communicate how people should contribute. 
+- Its OK to be wrong, but always reseach for answers you need as these contribution guidelines are a way to communicate how people should contribute. 
 Also read [Code Of Conduct] (https://github.com/tanyapowell/restaurant-reviews/blob/add-code-of-conduct-1/CODE_OF_CONDUCT.md)
 
 ## 5. Appreciate your team as you would want to be appreciated for all your hard work. 
-It creates a safe environment for spontenuety and highten a sense of wellbeing of the entire team.
+- It creates a safe environment for spontenuety and highten a sense of wellbeing of the entire team.
 
 ## 6. No pressure 
-just work hard and do your best.
+- just work hard and do your best.
 
 ## 7. Speak up and build your confidence 
-so each can be open to do more of expressing views. 
+- so each can be open to do more of expressing views. 
 
 ## 8. Find another member 
-like Tanya to confide in and speak on your behalf. 
+- like Tanya to confide in and speak on your behalf. 
 
 ## 9. Never feel pressured to stay 
-but try to see the process through you might suprise yourself. 
+- but try to see the process through you might suprise yourself. 
 
 ## 10. Always try 
-to change a miserable attitude to a winning attitude.
+- to change a miserable attitude to a winning attitude.
 
 ## 11. Process it 
-brush it off, fix your crown and keep moving forward.
+- brush it off, fix your crown and keep moving forward.
 
 ### Lastly, contributors are welcome to add to these guidlines while it is a working document.
 
