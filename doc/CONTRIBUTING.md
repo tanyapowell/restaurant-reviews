@@ -30,7 +30,7 @@ For both owners and contributors, contribution guidelines save time and hassle c
 
 # TO BE PRODUCTIVE, IN RAPIDLY DEVELOPING ENVIRONMENT - 
 ## PLEASE READ THE GOVERNANCE BELOW:-
-
+ 
 ## 1. How to contribute your first code?  
 Please see https://www.dataschool.io/how-to-contribute-on-github/
 
