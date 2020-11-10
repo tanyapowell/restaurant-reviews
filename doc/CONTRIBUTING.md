@@ -1,22 +1,25 @@
 # WELCOME TO OUR CONTRIBUTION GUIDELINES
 
 
+For the repository owner, and contributors these guidelines are a way to communicate how people should contribute.
+
 To help you save on time and hassle down the road, 
 these contribution guidelines will help for submitting well-formed pull requests and opening useful issues.
 
-For the repository owner, and contributors these guidelines are a way to communicate how people should contribute.
-
 The following is laid out to help govern and champion a productive collabrative effort.
+
+# For you the contributor 
+Reading these guidelines help us verify that they're submitting well-formed pull requests and opening useful issues.
 
 # PULL REQUESTS
 When deciding a title/name for your pull request please prefix with:
-(Feat): This is a new feature
+
+(Feat): For a new feature e.g. if I was creating a new Navbar the title would be (Feat): This is a new feature and the new feature is a Navbar, but the title should be something like (Feat): Add a Navbar component
+
 (Fix): I am fixing something
+
 (Doc): Some new documentation
 for example "fix.folder-structure" this outlines what you are doing and what you have done. It is short and sweet, to the point and informative. It will make documenting and revisiting code in the future easy to read and understand.
-
-
-For you the contributor, reading these guidelines help us verify that they're submitting well-formed pull requests and opening useful issues.
 
 For both owners and contributors, contribution guidelines save time and hassle caused by improperly created pull requests or issues that have to be rejected and re-submitted.
 
@@ -45,19 +48,21 @@ Also read [Code Of Conduct](https://github.com/tanyapowell/restaurant-reviews/bl
 - It creates a safe environment for spontenuety and highten a sense of wellbeing of the entire team.
 
 ## 6. No pressure 
-- just work hard and do your best.
+- just work hard and do your best. We are working towards March 2020.
 
 ## 7. Speak up and build your confidence 
 - so each can be open to do more of expressing views. 
 
 ## 8. Find another member 
 - like Tanya to confide in and speak on your behalf. 
+- DM any of our team in the Slack `#side-project` group
+- meet up anytime in our Google Meet by [Clicking Here for instant access](https://meet.google.com/pwb-uufh-fzj)
 
 ## 9. Never feel pressured to stay 
 - but try to see the process through you might suprise yourself. 
 
 ## 10. Always try 
-- to change a miserable attitude to a winning attitude.
+- to change a miserable attitude to a winning attitude. Look around at some inspirational blogs within BCH Cohorts and EmpowHerment Days
 
 ## 11. Process it 
 - brush it off, fix your crown and keep moving forward.
