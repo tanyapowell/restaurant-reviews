@@ -1,5 +1,4 @@
-# WELCOME TO YOUR 
-# CONTRIBUTION GUIDELINES
+# WELCOME TO OUR CONTRIBUTION GUIDELINES
 
 
 To help you save on time and hassle down the road, 
@@ -9,19 +8,21 @@ For the repository owner, and contributors these guidelines are a way to communi
 
 The following is laid out to help govern and champion a productive collabrative effort.
 
+# PULL REQUESTS
 When deciding a title/name for your pull request please prefix with:
-a. (Feat): This is a new feature
-b. (Fix): I am fixing something
-c. (Doc): Some new documentation
-for example "fix.folder-structure" this outlines what you are doing and what you have done. it is short and sweet, to the point and informative. It will make documenting and revisiting code in the future easy to read and understand.
+(Feat): This is a new feature
+(Fix): I am fixing something
+(Doc): Some new documentation
+for example "fix.folder-structure" this outlines what you are doing and what you have done. It is short and sweet, to the point and informative. It will make documenting and revisiting code in the future easy to read and understand.
 
-For youthe contributor, reading these guidelines help us verify that they're submitting well-formed pull requests and opening useful issues.
+
+For you the contributor, reading these guidelines help us verify that they're submitting well-formed pull requests and opening useful issues.
 
 For both owners and contributors, contribution guidelines save time and hassle caused by improperly created pull requests or issues that have to be rejected and re-submitted.
 
-1. [How TO USE THE PULL REQUEST VIDEO EXPLAINATION] (https://youtu.be/rgbCcBNZcdQ) 
+1. [How TO USE THE PULL REQUEST VIDEO EXPLAINATION](https://youtu.be/rgbCcBNZcdQ) 
 
-2. [HOW TO OPEN ISSUES VIDEO HELP & UNDERSTANDING] (https://www.youtube.com/watch?v=YshvUGgF_3o)
+2. [HOW TO OPEN ISSUES VIDEO HELP & UNDERSTANDING](https://www.youtube.com/watch?v=YshvUGgF_3o)
 
 
 # TO BE PRODUCTIVE, IN RAPIDLY DEVELOPING ENVIRONMENT - 
@@ -31,7 +32,7 @@ For both owners and contributors, contribution guidelines save time and hassle c
 Please see https://www.dataschool.io/how-to-contribute-on-github/
 
 ## 2. Meet each team member where they are and be super supportive
-- as we all strive for gre
+- as we all strive for greatness, please see this wonderful cheatsheet to help you format your Git Hub code properly. [CLICKE HERE](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## 3. Allow team members to be spontaneous
 - expect unexpected changes and commits. Make sure to comment, comment, comment.
@@ -66,6 +67,3 @@ Also read [Code Of Conduct] (https://github.com/tanyapowell/restaurant-reviews/b
 Thank you and ...
 
 Happy Contributing.
-
-
-
