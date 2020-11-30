@@ -3,10 +3,9 @@
 
 For the repository owner, and contributors these guidelines are a way to communicate how people should contribute.
 
-To help you save on time and hassle down the road, 
-these contribution guidelines will help for submitting well-formed pull requests and opening useful issues.
+To help you save on time and hassle down the road,  these contribution guidelines will help for submitting well-formed pull requests and opening useful issues.
 
-The following is laid out to help govern and champion a productive collabrative effort.
+The following is laid out to help govern and champion a productive collaborative effort.
 
 # ISSUES
 The following resource may help you understand the process for submitting an Issue.
@@ -16,7 +15,7 @@ Issues should be used to report problems with the library, request a new feature
 
 If you find an Issue that addresses the problem you're having, please add your own reproduction information to the existing issue rather than creating a new one. 
 
-Adding a reaction can also help to be indicate to our maintainers that a particular problem is affecting more than just the reporter.
+Adding a reaction can also help to be indicate to our maintainers that a particular problem is affecting more than just the reporter-
 
 ### ASSIGNING YOURSELF TO AN ISSUE
 If you find an issue that you would like to begin working on, please make sure to assign yourself and declare that you have begun.
@@ -38,7 +37,7 @@ For naming your new branches, it is good practice to consider naming the branch 
 ### NAMING THE PULL REQUEST
 When deciding a title/name for your pull request please prefix with:
 
-+ (Feat): For a new feature e.g. if I was creating a new Navbar the title would be (Feat): This is a new feature and the new feature is a Navbar, but the title should be something like '(Feat): Add a Navbar component'.
++ (Feat): For a new feature e.g. if I were creating a new Navbar the title would be (Feat): This is a new feature and the new feature is a Navbar, but the title should be something like '(Feat): Add a Navbar component'.
 + (Fix): I am fixing something.
 + (Doc): Some new documentation.
 I.e. "fix.folder-structure" this outlines what you are doing and what you have done. It is short and sweet, to the point and informative. It will make documenting and revisiting code in the future easy to read and understand.
@@ -53,20 +52,20 @@ Once you have an approved PR, your contribution can be merged to the main branch
 ## PLEASE READ THE GOVERNANCE BELOW:
  
 ### 1. Your first contribution?  
-Get excited your about to contribute to a great team project with your code.
+Get excited you’re about to contribute to a great team project with your code.
 
 ### 2. Meet each team member where they are and be super supportive
-- as we all strive for greatness, please see this wonderful cheatsheet to help you format your Git Hub code properly. [CLICKE HERE](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- as we all strive for greatness, please see this wonderful cheat sheet to help you format your GitHub code properly. [CLICKE HERE](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### 3. Allow team members to be spontaneous
 - expect unexpected changes and commits. Make sure to comment, comment, comment.
 
 ### 4. Don't expect them “to know”. 
-- It's OK to be wrong, but always reseach for answers you need as these contribution guidelines are a way to communicate how people should contribute. 
+- It's OK to be wrong, but always research for answers you need as these contribution guidelines are a way to communicate how people should contribute. 
 Also read [Code Of Conduct](https://github.com/tanyapowell/restaurant-reviews/blob/add-code-of-conduct-1/CODE_OF_CONDUCT.md)
 
-### 5. Appreciate your team as you would want to be appreciated for all your hard work. 
-- It creates a safe environment for spontenuety and highten a sense of wellbeing of the entire team.
+### 5. Appreciate your team, as you would want to be appreciated for all your hard work. 
+- It creates a safe environment for spontaneity and heightens a sense of wellbeing of the entire team.
 
 ### 6. No pressure 
 - just work hard and do your best. We are working towards March 2021.
@@ -80,7 +79,7 @@ Also read [Code Of Conduct](https://github.com/tanyapowell/restaurant-reviews/bl
 - meet up anytime in our Google Meet by [Clicking Here for instant access](https://meet.google.com/pwb-uufh-fzj)
 
 ### 9. Never feel pressured to stay 
-- but try to see the process through you might suprise yourself. 
+- but try to see the process through you might surprise yourself. 
 
 ### 10. Always try 
 - to change a miserable attitude to a winning attitude. Look around at some inspirational blogs within BCH Cohorts and EmpowHerment Days
@@ -88,8 +87,9 @@ Also read [Code Of Conduct](https://github.com/tanyapowell/restaurant-reviews/bl
 ### 11. Process it 
 - brush it off, fix your crown and keep moving forward.
 
-#### Lastly, contributors are welcome to add to these guidlines while it is a working document.
+#### Lastly, contributors are welcome to add to these guidelines while it is a working document.
 
-Thank you and ...
+Thank you and...
 
 Happy Contributing.
+
