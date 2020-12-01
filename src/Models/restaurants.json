@@ -6,14 +6,14 @@
             "landline": null, 
             "mobile": "07792557204"
         },
-        "cusineCategory": "Trinidadian, dine-in and takeaway", 
+        "cuisineCategory": "Trinidadian, dine-in and takeaway", 
         "tripAdvisorRating": 5, 
         "website": null, 
-        "instgram": null,
-        "facebook": "@mbmmeals", 
+        "instagram": null,
+        "facebook": "mbmmeals", 
         "email":"melinda.williams@live.co.uk", 
         "imageLinks": {
-            "facebookImages": "https://www.facebook.com/mbmmeals/photos/a.111542720538174/141008090924970/?type=3&theater",
+            "facebookImages": "/mbmmeals/photos/a.111542720538174/141008090924970/?type=3&theater",
             "instagramImages": null
         } 
     },
@@ -25,15 +25,15 @@
             "landline": "0121 572 6163", 
             "mobile": null
         },
-        "cusineCategory": "Plant based Caribbean, dine-in and takeaway", 
+        "cuisineCategory": "Plant Based Caribbean, dine-in and takeaway", 
         "tripAdvisorRating": 5, 
         "website": null, 
-        "instgram": "earthskitchen_",
-        "facebook": "@earthskitchen3", 
+        "instagram": "earthskitchen_",
+        "facebook": "earthskitchen3", 
         "email": null, 
         "imageLinks": {
-            "facebookImages": "https://www.facebook.com/pg/earthskitchen3/photos/?tab=album&album_id=387848864958011&ref=page_internal", 
-            "instagramImages": "https://www.instagram.com/earthskitchen_/?hl=en"    
+            "facebookImages": "/pg/earthskitchen3/photos/?tab=album&album_id=387848864958011&ref=page_internal", 
+            "instagramImages": "earthskitchen_/?hl=en"    
         }
 
     },
@@ -45,15 +45,15 @@
             "landline": "0121 448 7203", 
             "mobile": null
         },
-        "cusineCategory": "Caribbean dine-in", 
+        "cuisineCategory": "Caribbean dine-in", 
         "tripAdvisorRating": 4.5, 
         "website": "https://www.devonhouse.co.uk/", 
-        "instgram": "devonhousejq",
-        "facebook": "@DevonHouseRestaurant.and.Bar", 
+        "instagram": "devonhousejq",
+        "facebook": "DevonHouseRestaurant.and.Bar", 
         "email":"info@devonhouse.co.uk",
         "imageLinks": {
-            "facebookImages": "https://www.facebook.com/pg/DevonHouseRestaurant.and.Bar/photos/?tab=album&album_id=113748409967706&ref=page_internal", 
-            "instagramImages": "https://www.instagram.com/devonhousejq/"    
+            "facebookImages": "/pg/DevonHouseRestaurant.and.Bar/photos/?tab=album&album_id=113748409967706&ref=page_internal", 
+            "instagramImages": "/devonhousejq/"    
         }
 
     },
@@ -65,14 +65,14 @@
             "landline": "0121 544 3074", 
             "mobile": null
         },
-        "cusineCategory": "Caribbean fast-food takeaway", 
+        "cuisineCategory": "Caribbean Takeaway", 
         "tripAdvisorRating": null, 
         "website": "https://paradise-cove-caribbean-restaurant.business.site/", 
-        "instgram": null,
-        "facebook": "@paradisecovecuisine", 
+        "instagram": null,
+        "facebook": "paradisecovecuisine", 
         "email": null, 
         "imageLinks": {
-            "facebookImages": "https://en-gb.facebook.com/pg/paradisecovecuisine/photos/?tab=album&album_id=367035033700491&ref=page_internal", 
+            "facebookImages": "/pg/paradisecovecuisine/photos/?tab=album&album_id=367035033700491&ref=page_internal", 
             "instagramImages": null   
         }
 
@@ -85,15 +85,15 @@
             "landline": "01212360519", 
             "mobile": null
         },
-        "cusineCategory": "Caribbean, Jamaican dine-in", 
+        "cuisineCategory": "Caribbean, Jamaican Dine-in", 
         "tripAdvisorRating": 4.5, 
         "website": "https://www.24caratbistro.co.uk/", 
-        "instgram": "24caratbistro",
-        "facebook": "@24-Carat-Bistro", 
+        "instagram": "24caratbistro",
+        "facebook": "24-Carat-Bistro", 
         "email": "salmon_m@hotmail.co.uk", 
         "imageLinks": {
-            "facebookImages": "https://www.facebook.com/pg/24-Carat-Bistro-171140729731945/photos/?tab=album&album_id=199168526929165&ref=page_internal", 
-            "instagramImages": "https://www.instagram.com/24caratbistro/"
+            "facebookImages": "pg/24-Carat-Bistro-171140729731945/photos/?tab=album&album_id=199168526929165&ref=page_internal", 
+            "instagramImages": "/24caratbistro/"
         }
 
     }, 
@@ -105,14 +105,14 @@
             "landline": "0121 679 2893", 
             "mobile": null
         },
-        "cusineCategory": "", 
+        "cuisineCategory": "", 
         "tripAdvisorRating": 4.5, 
         "website": "https://baileyscaribbean.co.uk/", 
-        "instgram": null,
+        "instagram": null,
         "facebook": "@baileys9872", 
         "email": null,
         "imageLinks": {
-            "facebookImages": "https://www.facebook.com/pg/baileys9872/photos/?tab=album&album_id=10160989091160243&ref=page_internal", 
+            "facebookImages": "/pg/baileys9872/photos/?tab=album&album_id=10160989091160243&ref=page_internal", 
             "instagramImages": null    
         }
 
@@ -125,17 +125,18 @@
             "landline": "0121 622 3332", 
             "mobile": null
         },
-        "cusineCategory": "Jamaican Bar and Grill, dine-in", 
+        "cuisineCategory": "Jamaican Bar and Grill, Dine-in", 
         "tripAdvisorRating": 4.5, 
         "website": "http://www.thedeepexperience.com/", 
-        "instgram": "thedeepjamaicanexperience",
-        "facebook": "@TheDeepExperience", 
+        "instagram": "thedeepjamaicanexperience",
+        "facebook": "TheDeepExperience", 
         "email": "info@thedeepexperience.com",
         "imageLinks": {
-            "facebookImages": "https://en-gb.facebook.com/pg/TheDeepExperience/photos/?ref=page_internal", 
-            "instagramImages": "https://www.instagram.com/thedeepjamaicanexperience/?hl=af"    
+            "facebookImages": "/pg/TheDeepExperience/photos/?ref=page_internal", 
+            "instagramImages": "/thedeepjamaicanexperience/?hl=af"    
         }
 
     }
 
 ]
+
