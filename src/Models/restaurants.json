@@ -1,12 +1,22 @@
 [  
     {
         "restaurantName": "MBM Trinbago Meals",
-        "address": "Pool Road, Birmingham B66 3DB",
+        "address": {
+            "firstLine": "Pool Road",
+            "secondLine": null,
+            "city": "Birmingham",
+            "postCode":  "B66 3DB"
+        },
         "phoneNumber": {
             "landline": null, 
             "mobile": "07792557204"
         },
-        "cuisineCategory": "Trinidadian, dine-in and takeaway", 
+        "restaurantType": {
+            "cuisineType": "Trinidadian",
+            "dineIn":  "yes", 
+            "takeaway": "yes",
+            "delivery": "no"
+        },
         "tripAdvisorRating": 5, 
         "website": null, 
         "instagram": null,
@@ -20,12 +30,22 @@
 
     {
         "restaurantName":"Earth's Kitchen",
-        "address": "180 High Street Deritend Digbeth, Birmingham, B12 0LD",
+        "address": {
+            "firstLine": "180 High Street Deritend",
+            "secondLine": "Digbeth",
+            "city": "Birmingham" ,
+            "postCode":  "B12 0LD"
+        },
         "phoneNumber": {
             "landline": "0121 572 6163", 
             "mobile": null
         },
-        "cuisineCategory": "Plant Based Caribbean, dine-in and takeaway", 
+        "restaurantType": {
+            "cuisineType": "Plant Based Caribbean",
+            "dineIn":  "yes", 
+            "takeaway": "yes",
+            "delivery":  "no"
+        },
         "tripAdvisorRating": 5, 
         "website": null, 
         "instagram": "earthskitchen_",
@@ -40,12 +60,22 @@
 
     { 
         "restaurantName": "Devon House Jamaican Restaurant & Bar",
-        "address": "16 Hall Street Jewellery Quarter, Birmingham B18 6BS",
+        "address": {
+            "firstLine": "16 Hall Street",
+            "secondLine": "Jewellery Quarter",
+            "city": "Birmingham",
+            "postCode": "B18 6BS"
+        },
         "phoneNumber": {
             "landline": "0121 448 7203", 
             "mobile": null
         },
-        "cuisineCategory": "Caribbean dine-in", 
+        "restaurantType": {
+            "cuisineType": "Caribbean",
+            "dineIn":  "yes", 
+            "takeaway": "yes",
+            "delivery":  "no"
+        },
         "tripAdvisorRating": 4.5, 
         "website": "https://www.devonhouse.co.uk/", 
         "instagram": "devonhousejq",
@@ -60,12 +90,22 @@
 
     { 
         "restaurantName": "Paradise Cove Cuisine",
-        "address": "210 Causeway Green Road, Oldbury B68 8LS",
+        "address": {
+            "firstLine": "210 Causeway Green Road",
+            "secondLine": "Oldbury",
+            "city": null,
+            "postCode":  "B68 8LS"
+        },
         "phoneNumber": {
             "landline": "0121 544 3074", 
             "mobile": null
         },
-        "cuisineCategory": "Caribbean Takeaway", 
+        "restaurantType": {
+            "cuisineType": "Caribbean",
+            "dineIn":  "no", 
+            "takeaway": "yes",
+            "delivery": "yes"
+        },
         "tripAdvisorRating": null, 
         "website": "https://paradise-cove-caribbean-restaurant.business.site/", 
         "instagram": null,
@@ -80,12 +120,22 @@
 
     { 
         "restaurantName": "24 Carat Bistro",
-        "address": "27 Warstone Lane Hockley, Birmingham B18 6JQ",
+        "address": {
+            "firstLine": "27 Warstone Lane",
+            "secondLine": "Hockley",
+            "city": "Birmingham",
+            "postCode": "B18 6JQ"
+        },
         "phoneNumber": {
             "landline": "01212360519", 
             "mobile": null
         },
-        "cuisineCategory": "Caribbean, Jamaican Dine-in", 
+        "restaurantType": {
+            "cuisineType": "Jamaican",
+            "dineIn":  "yes", 
+            "takeaway": "yes",
+            "delivery": "yes"
+        },
         "tripAdvisorRating": 4.5, 
         "website": "https://www.24caratbistro.co.uk/", 
         "instagram": "24caratbistro",
@@ -100,12 +150,22 @@
 
     { 
         "restaurantName": "Bailey's Caribbean Restaurant",
-        "address": "103 New Town Row, Birmingham B6 4HG",
+        "address": {
+            "firstLine": "103 New Town Row",
+            "secondLine": null,
+            "city": "Birmingham",
+            "postCode": "B6 4HG"
+        },
         "phoneNumber": {
             "landline": "0121 679 2893", 
             "mobile": null
         },
-        "cuisineCategory": "", 
+        "restaurantType": {
+            "cuisineType": "Caribbean",
+            "dineIn":  "no", 
+            "takeaway": "yes",
+            "delivery": "yes"
+        },
         "tripAdvisorRating": 4.5, 
         "website": "https://baileyscaribbean.co.uk/", 
         "instagram": null,
@@ -120,12 +180,22 @@
 
     { 
         "restaurantName": "Deep Caribbean Experience",
-        "address": "34 Bristol Street Birmingham B5 7AA",
+        "address": {
+            "firstLine": "34 Bristol Street",
+            "secondLine": null,
+            "city": "Birmingham",
+            "postCode": "B5 7AA"
+        },
         "phoneNumber": {
             "landline": "0121 622 3332", 
             "mobile": null
         },
-        "cuisineCategory": "Jamaican Bar and Grill, Dine-in", 
+        "restaurantType": {
+            "cuisineType": "Jamaican",
+            "dineIn":  "yes", 
+            "takeaway": "yes",
+            "delivery": "yes"
+        },
         "tripAdvisorRating": 4.5, 
         "website": "http://www.thedeepexperience.com/", 
         "instagram": "thedeepjamaicanexperience",
