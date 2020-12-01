@@ -11,11 +11,11 @@ The following is laid out to help govern and champion a productive collaborative
 The following resource may help you understand the process for submitting an Issue.
  * [HOW TO OPEN ISSUES VIDEO HELP & UNDERSTANDING](https://www.youtube.com/watch?v=YshvUGgF_3o)
 
-Issues should be used to report problems with the library, request a new feature, or to discuss potential changes before a PR is created. When you create a new Issue, a template will be loaded that will guide you through collecting and providing the information we need to investigate.
+Issues should be used to report problems, request a new feature, or to discuss potential changes before a PR is created. When you create a new Issue, a template will be loaded that will guide you through collecting and providing the information we need to investigate.
 
 If you find an Issue that addresses the problem you're having, please add your own reproduction information to the existing issue rather than creating a new one. 
 
-Adding a reaction can also help to be indicate to our maintainers that a particular problem is affecting more than just the reporter-
+Adding a reaction can also help to be indicate to our maintainers that a particular problem is affecting more than just the reporter.
 
 ### ASSIGNING YOURSELF TO AN ISSUE
 If you find an issue that you would like to begin working on, please make sure to assign yourself and declare that you have begun.
@@ -28,7 +28,7 @@ Please see [Step By Step Guide To Contributing on GitHub](https://www.dataschool
 The following resources may help you understand the process before making Pull Requests.
 * [How TO USE THE PULL REQUEST VIDEO EXPLAINATION](https://youtu.be/rgbCcBNZcdQ) 
 
-* Using the `Pull Request Template` will help to guide you in making useful and neat contributions.
+* Using the [`Pull Request Template`](docs/PULL_REQUEST_TEMPLATE.md) will help to guide you in making useful and neat contributions.
 
 ### NAMING BRANCHES
 For naming your new branches, it is good practice to consider naming the branch in your name or by the name of the problem being solved. Also link it with the number of the issue i.e. Jane/Nav-bar/12 
@@ -52,13 +52,14 @@ Once you have an approved PR, your contribution can be merged to the main branch
 ## PLEASE READ THE GOVERNANCE BELOW:
  
 ### 1. Your first contribution?  
-Get excited you’re about to contribute to a great team project with your code.
+- To maintain a great and consistent coding practice, set up/ install i.e. a formatting extension in in VS Code called prettier which will auto format neat code for you. 
+
 
 ### 2. Meet each team member where they are and be super supportive
-- as we all strive for greatness, please see this wonderful cheat sheet to help you format your GitHub code properly. [CLICKE HERE](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- As we all strive for greatness, please see this wonderful cheat sheet to help you format your GitHub code properly. [CLICK HERE](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### 3. Allow team members to be spontaneous
-- expect unexpected changes and commits. Make sure to comment, comment, comment.
+- Expect unexpected changes and commits. Make sure to comment, comment, comment.
 
 ### 4. Don't expect them “to know”. 
 - It's OK to be wrong, but always research for answers you need as these contribution guidelines are a way to communicate how people should contribute. 
@@ -68,24 +69,24 @@ Also read [Code Of Conduct](https://github.com/tanyapowell/restaurant-reviews/bl
 - It creates a safe environment for spontaneity and heightens a sense of wellbeing of the entire team.
 
 ### 6. No pressure 
-- just work hard and do your best. We are working towards March 2021.
+- Just work hard and do your best. We are working towards March 2021.
 
 ### 7. Speak up and build your confidence 
-- so each can be open to do more of expressing views. 
+- So each can be open to do more of expressing views. 
 
 ### 8. Find another member 
-- like Tanya to confide in and speak on your behalf. 
+- Like Tanya to confide in and speak on your behalf. 
 - DM any of our team in the Slack `#side-project` group
-- meet up anytime in our Google Meet by [Clicking Here for instant access](https://meet.google.com/pwb-uufh-fzj)
+- Meet up anytime in our Google Meet by [Clicking Here for instant access](https://meet.google.com/pwb-uufh-fzj)
 
 ### 9. Never feel pressured to stay 
-- but try to see the process through you might surprise yourself. 
+- But try to see the process through you might surprise yourself. 
 
 ### 10. Always try 
-- to change a miserable attitude to a winning attitude. Look around at some inspirational blogs within BCH Cohorts and EmpowHerment Days
+- To change a miserable attitude to a winning attitude. Look around at some inspirational blogs within BCH Cohorts and EmpowHerment Days
 
 ### 11. Process it 
-- brush it off, fix your crown and keep moving forward.
+- Brush it off, fix your crown and keep moving forward.
 
 #### Lastly, contributors are welcome to add to these guidelines while it is a working document.
 
